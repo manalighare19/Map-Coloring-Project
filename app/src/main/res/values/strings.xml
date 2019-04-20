@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Trip Planner</string>
+
+    <string-array name="country_array">
+        <item>Select Country</item>
+        <item>USA</item>
+        <item>Australia</item>
+    </string-array>
+
+
+    <string-array name="algorithm_array">
+        <item>Select Algorithm</item>
+        <item>Depth first search</item>
+        <item>Depth first search + forward checking</item>
+        <item>Depth first search + forward checking + propagation through singleton domains</item>
+        <item>Depth first search + forward checking + propagation through reduced domain</item>
+    </string-array>
+</resources>
