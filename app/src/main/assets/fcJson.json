@@ -1,0 +1,72 @@
+{
+
+  "Australia": [
+    {
+      "state":"Western Australia",
+      "latitude":-27.083687,
+      "longitude":122.060461,
+      "stateID":0,
+      "domain":[{"r":"r"},{"g":"g"},{"b":"b"},{"y":"y"}],
+      "singletonDomain":-1,
+      "color":-1
+    },
+    {
+      "state":"Northern Territory",
+      "latitude":-20.499687,
+      "longitude":133.444582,
+      "stateID":1,
+      "domain":[{"r":"r"},{"g":"g"},{"b":"b"},{"y":"y"}],
+      "singletonDomain":-1,
+      "color":-1
+    },
+    {
+      "state":"Queensland",
+      "latitude":-23.592397,
+      "longitude":144.557799,
+      "stateID":2,
+      "domain":[{"r":"r"},{"g":"g"},{"b":"b"},{"y":"y"}],
+      "singletonDomain":-1,
+      "color":-1
+    },
+    {
+      "state":"South Australia",
+      "latitude":-29.829255,
+      "longitude":134.277140,
+      "stateID":3,
+      "domain":[{"r":"r"},{"g":"g"},{"b":"b"},{"y":"y"}],
+      "singletonDomain":-1,
+      "color":-1
+    },
+    {
+      "state":"New South Wales",
+      "latitude":-33.030356,
+      "longitude":145.635108,
+      "stateID":4,
+      "domain":[{"r":"r"},{"g":"g"},{"b":"b"},{"y":"y"}],
+      "singletonDomain":-1,
+      "color":-1
+    },
+
+    {
+      "state":" Victoria",
+      "latitude":-37.238256,
+      "longitude":143.903261,
+      "stateID":5,
+      "domain":[{"r":"r"},{"g":"g"},{"b":"b"},{"y":"y"}],
+      "singletonDomain":-1,
+      "color":-1
+    },
+
+    {
+      "state":"Tasmania",
+      "latitude":-42.139427,
+      "longitude":146.530196,
+      "stateID":6,
+      "domain":[{"r":"r"},{"g":"g"},{"b":"b"},{"y":"y"}],
+      "singletonDomain":-1,
+      "color":-1
+    }
+
+
+  ]
+}
